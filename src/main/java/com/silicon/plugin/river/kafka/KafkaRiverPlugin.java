@@ -36,7 +36,7 @@ public class KafkaRiverPlugin extends AbstractPlugin {
 
     @Override
     public String name() {
-        return "river-kafka";
+        return "kafkariver";
     }
 
     @Override
