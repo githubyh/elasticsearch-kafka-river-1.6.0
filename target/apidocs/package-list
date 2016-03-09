@@ -1,0 +1,6 @@
+com.silicon.plugin.kafka.Util
+com.silicon.plugin.kafka.consumer
+com.silicon.plugin.kafka.listener
+com.silicon.plugin.kafka.task
+com.silicon.plugin.river.kafka
+com.silicon.plugin.river.kafka.module

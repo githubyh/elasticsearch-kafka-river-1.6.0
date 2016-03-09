@@ -20,7 +20,12 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
-
+<scm>
+        <connection>scm:svn:http://127.0.0.1/elasticsearch-kafka-plugin</connection>
+        <developerConnection>scm:svn:https://127.0.0.1/elasticsearch-kafka-plugin</developerConnection>
+        <tag>HEAD</tag>
+        <url>http://127.0.0.1/elasticsearch-kafka-plugin</url>
+    </scm>
 	<properties>
 		<github.global.server>github</github.global.server>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
